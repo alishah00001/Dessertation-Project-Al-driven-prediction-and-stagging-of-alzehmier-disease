@@ -8,6 +8,10 @@ There are two code files in this repository:
 * One for DL on MRI images.
 
 ---
+## Datasets
+https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data
+https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
+
 
 ## 📄 Abstract
 
